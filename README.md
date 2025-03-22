@@ -71,9 +71,9 @@ Beyond technology, I hold a strong interest in **mathematics**, **theoretical ph
 
 I am eager to engage with professionals who share my enthusiasm for using technology to address real-world problems, innovate responsibly, and continually elevate our craft.
 
+Private repositories will be source open-souced soon.
 
 ![n4b1lb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n4b1lb&show_icons=true&theme=onedark&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n4b1lb&hide=CSS,C%2b%2b,Objective-C,HTML,CMake&langs_count=8&layout=compact&theme=onedark&count_private=false)
 
 <codersrank-skills-chart username="pedro_m_santos"></codersrank-skills-chart>
