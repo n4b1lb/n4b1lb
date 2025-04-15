@@ -67,6 +67,11 @@ Throughout my career, I've led projects that exceed expectations by prioritising
 Beyond technology, I hold a strong interest in **mathematics**, **theoretical physics**, and the broader sciences. I am fascinated by their **meta-science**, **philosophy**, **epistemology**, and **ethics** — always exploring connections between abstract theory and practical application.
 
 
+## 🚀 OSS Contributions & Creations
+
+[![Bloc]([[https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=bloc](https://github.com/wiremock/wiremock-grpc-extension)]([https://github.com/n4b1lb/open-sourcing-private-projects-soon](https://github.com/wiremock/wiremock-grpc-extension)))]([https://github.com/n4b1lb/open-sourcing-private-projects-soon](https://github.com/wiremock/wiremock-grpc-extension))
+
+
 ## 🤝 Let's Connect  
 
 I am eager to engage with professionals who share my enthusiasm for using technology to address real-world problems, innovate responsibly, and continually elevate our craft.
@@ -77,4 +82,5 @@ Private repositories will be source open-souced soon.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n4b1lb&hide=CSS,C%2b%2b,Objective-C,HTML,CMake&langs_count=8&layout=compact&theme=onedark&count_private=false)
 
 <codersrank-skills-chart username="pedro_m_santos"></codersrank-skills-chart>
+
 
