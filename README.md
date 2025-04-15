@@ -69,7 +69,7 @@ Beyond technology, I hold a strong interest in **mathematics**, **theoretical ph
 
 ## 🚀 OSS Contributions & Creations
 
-[![Bloc]([[https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=bloc](https://github.com/wiremock/wiremock-grpc-extension)]([https://github.com/n4b1lb/open-sourcing-private-projects-soon](https://github.com/wiremock/wiremock-grpc-extension)))]([https://github.com/n4b1lb/open-sourcing-private-projects-soon](https://github.com/wiremock/wiremock-grpc-extension))
+[![wiremock-grpc-extension](https://github.com/wiremock/wiremock-grpc-extension)](https://github.com/wiremock/wiremock-grpc-extension)
 
 
 ## 🤝 Let's Connect  
